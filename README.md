@@ -1,4 +1,4 @@
-Simple Telegram 5 days weather forecast bot. It takes data from the OpenWeatherMap free API.
+Simple Telegram 5 days weather forecast bot. It takes data from the [OpenWeatherMap](https://openweathermap.org/api) free API.
 
 Created with unofficial ["TelegramBots"](https://github.com/rubenlagus/TelegramBots/tree/master/telegrambots-abilities) API.
 
